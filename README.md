@@ -1,10 +1,12 @@
 # funkin-utau
-UPDATE: PLEASE DONT REUPLOAD THE VOICEBANKS!! SEND THIS GITHUB PAGE INSTEAD AND GIVE CREDITS PROPERLY!!
--------------------
 *"Ready? Set? Sing!"
-A repository with the famous game Friday Night Funkin's characters voices, for UTAU!
+The Reborn of funkin-utau
 -------------------
-You must credit GenoX and KawaiSprite when using!!, Also if you're using a FANMADE UTAU, credit the original autors of them!
+A repository with the famous game Friday Night Funkin's characters voices, for UTAU!
+
+Since i saw many people reuploading this AND uncrediting me in mods like Garcello Mod, Friday Night Shootin', or in videos like from Blantados, etc. I decided to take funkin-utau repository down. Only because i saw people DM'ing me on Discord for the download and stuff, i was forced to put this up again.
+
+You MUST credit GenoX and KawaiSprite when using!!, Also if you're using a FANMADE UTAU, credit the original autors of them!
 
 Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
 
@@ -52,7 +54,19 @@ Original Creators of the FANMADE UTAUs
 
 -Zardy-Rozebud-
 
+-KAPI-PaperKitty-
+
 -Garcello-atsuover-
+
+-Agoti-A.G.O.T.I-
+
+-Cassandra-RamenNoodiles-
+
+-Tabi-Tenzubushi-
+
+-Bob-Wildy-
+
+-Xigmund-kevenandsoki-
 
 send a lot of love to these creators!
 
