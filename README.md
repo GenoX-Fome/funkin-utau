@@ -70,6 +70,10 @@ Original Creators of the FANMADE UTAUs
 
 -Momi-bbpanzu-
 
+-Tord-bbpanzu-
+
+-Monika-Diffraktor/CelShader-
+
 send a lot of love to these creators!
 
 IMPORTANT NOTES:
