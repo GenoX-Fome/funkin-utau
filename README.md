@@ -60,8 +60,6 @@ Original Creators of the FANMADE UTAUs
 
 -Agoti-A.G.O.T.I-
 
--Cassandra-RamenNoodiles-
-
 -Tabi-Tenzubushi-
 
 -Bob-Wildy-
