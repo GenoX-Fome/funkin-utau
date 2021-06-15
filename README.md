@@ -10,7 +10,7 @@ You MUST credit GenoX and KawaiSprite when using!!, Also if you're using a FANMA
 
 Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
 
-Whitty UTAU by: AjtheYandere https://www.youtube.com/c/AjtheYandere
+Whitty, Momi and Ruv UTAU by: AjtheYandere https://www.youtube.com/c/AjtheYandere
 
 Mom and Tankmen UTAUs by: Ani Andrade/Aniball
 
@@ -50,6 +50,8 @@ Original Creators of the FANMADE UTAUs
 
 -Sarvente-Mike Geno-
 
+-Ruv-Mike Geno-
+
 -Tricky-Rozebud-
 
 -Zardy-Rozebud-
@@ -65,6 +67,8 @@ Original Creators of the FANMADE UTAUs
 -Bob-Wildy-
 
 -Xigmund-kevenandsoki-
+
+-Momi-bbpanzu-
 
 send a lot of love to these creators!
 
