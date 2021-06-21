@@ -10,7 +10,7 @@ You MUST credit GenoX and KawaiSprite when using!!, Also if you're using a FANMA
 
 Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
 
-Whitty, Momi and Ruv UTAU by: AjtheYandere https://www.youtube.com/c/AjtheYandere
+Whitty, Momi and Ruv UTAU by: AjtheFunky https://www.youtube.com/c/AjtheFunky/
 
 Mom and Tankmen UTAUs by: Ani Andrade/Aniball
 
