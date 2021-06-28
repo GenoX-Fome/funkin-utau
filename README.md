@@ -22,6 +22,8 @@ Sky and Angry Sky by: Tsuwuki
 
 Garcello and Dead Garcello by: AlexGamingSW https://www.youtube.com/channel/UC4tFoQEqjfPSbucWGsc3OLA
 
+KOU and Updike by: moonbubble
+
 FNF but bad UTAUs coming soon!
 
 You want the Monster UTAU? Check this out!: https://youtu.be/Oje2IQ4Hz8k Credits to Halfne Cross
@@ -72,7 +74,11 @@ Original Creators of the FANMADE UTAUs
 
 -Tord-bbpanzu-
 
--Monika-Diffraktor/CelShader-
+-Monika-CelShader-
+
+-Kou-Aika-
+
+-Updike-Sock.clip-
 
 send a lot of love to these creators!
 
