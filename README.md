@@ -10,7 +10,7 @@ You MUST credit GenoX and KawaiSprite when using!!, Also if you're using a FANMA
 
 Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
 
-Whitty, Momi and Ruv UTAU by: AjtheYandere https://www.youtube.com/c/AjtheYandere
+Whitty, Momi and Ruv UTAU by: AjtheFunky https://www.youtube.com/c/AjtheFunky/
 
 Mom and Tankmen UTAUs by: Ani Andrade/Aniball
 
@@ -28,7 +28,7 @@ FNF but bad UTAUs coming soon!
 
 You want the Monster UTAU? Check this out!: https://youtu.be/Oje2IQ4Hz8k Credits to Halfne Cross
 
-You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Wiki tab, Issues tab or talk to me in Discord: GenoX#2279
+You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Issues tab or talk to me in Discord: GenoX#2279
 
 Original Creators of the FANMADE UTAUs
 -------------------
