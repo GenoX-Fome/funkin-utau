@@ -28,6 +28,8 @@ FNF but bad UTAUs coming soon!
 
 You want the Monster UTAU? Check this out!: https://youtu.be/Oje2IQ4Hz8k Credits to Halfne Cross
 
+Go check out Blantados UTAUs!! (Be sure to credit them when using): https://github.com/Blantados/blantados-funkin-utau-main
+
 You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Issues tab or talk to me in Discord: GenoX#2279
 
 Original Creators of the FANMADE UTAUs
