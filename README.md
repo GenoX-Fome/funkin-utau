@@ -4,8 +4,6 @@ The Reborn of funkin-utau
 -------------------
 A repository with the famous game Friday Night Funkin's characters voices, for UTAU!
 
-Since i saw many people reuploading this AND uncrediting me in mods like Garcello Mod, Friday Night Shootin', etc. I decided to take funkin-utau repository down. Only because i saw people DM'ing me on Discord for the download and stuff, i was forced to put this up again.
-
 You MUST credit GenoX and KawaiSprite when using!!, Also if you're using a FANMADE UTAU, credit the original autors of them!
 
 Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
