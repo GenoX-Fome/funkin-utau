@@ -22,7 +22,7 @@ Garcello and Dead Garcello by: AlexGamingSW https://www.youtube.com/channel/UC4t
 
 KOU and Updike by: moonbubble
 
-FNF but bad UTAUs coming soon!
+FNF but bad UTAUs just came out!! Credits to CLF <3
 
 You want the Monster UTAU? Check this out!: https://youtu.be/Oje2IQ4Hz8k Credits to Halfne Cross
 
