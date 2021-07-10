@@ -80,6 +80,12 @@ Original Creators of the FANMADE UTAUs
 
 -Updike-Sock.clip-
 
+-Nene-Burning Sexuality-
+
+-Trollge-EZHALT-
+
+-FNF but bad-CLF-
+
 send a lot of love to these creators!
 
 IMPORTANT NOTES:
