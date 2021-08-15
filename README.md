@@ -18,7 +18,7 @@ Tricky, Beach Brother, Zardy and Sarvente UTAUs by: Samuran
 
 Sky and Angry Sky by: Tsuwuki
 
-Garcello and Dead Garcello by: AlexGamingSW https://www.youtube.com/channel/UC4tFoQEqjfPSbucWGsc3OLA
+Garcello and Eteled by: AlexGamingSW https://www.youtube.com/channel/UC4tFoQEqjfPSbucWGsc3OLA
 
 KOU and Updike by: moonbubble
 
@@ -83,6 +83,8 @@ Original Creators of the FANMADE UTAUs
 -Trollge-EZHALT-
 
 -FNF but bad-CLF-
+
+-Eteled-TheMaskedChris-
 
 send a lot of love to these creators!
 
