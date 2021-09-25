@@ -22,6 +22,8 @@ Garcello and Eteled by: AlexGamingSW https://www.youtube.com/channel/UC4tFoQEqjf
 
 KOU and Updike by: moonbubble
 
+BF from Hex mod by: xzh3r
+
 FNF but bad UTAUs just came out!! Credits to CLF <3
 
 Go check out Blantados UTAUs!! (Be sure to credit them when using): https://github.com/Blantados/blantados-funkin-utau-main
