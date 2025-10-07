@@ -3,6 +3,7 @@
 funkin-utau
 -------------------
 A repository with the Friday Night Funkin's characters voices, for UTAU
+
 *Archived as there's no plans of doing additions or fixes to these old voicebanks.
 If you're looking for a proper BoyFriend UTAU voicebank, I recommend checking here: https://gamebanana.com/tools/7887
 The rest of this readme is unedited from 2021-2022.*
@@ -11,6 +12,7 @@ Most of the voicebanks .wav samples were sliced by me.
 
 Credit the original authors of the voices for any usage.
 -------------------
+
 KawaiSprite: Base Game voices
 
 Whitty, Momi and Ruv UTAU by: AjtheFunky https://www.youtube.com/c/AjtheFunky/
@@ -76,7 +78,8 @@ Original Creators of the FANMADE UTAUs
 IMPORTANT NOTES:
 ---------------------
 
-*These notes were written for vanilla UTAU usage. OpenUTAU and other programs usage might be different. 
+*These notes were written for vanilla UTAU usage. OpenUTAU and other programs usage might be different.*
+
 Some VoiceBanks like Pico and Monster needs to be lowed 2 octaves so they can sound normal, for do that follow this guide:
 
 >1 In UTAU, Go to the "Edit" menu
@@ -108,13 +111,20 @@ Skid and Pump have the same voice provideer but different between South and Spoo
 # Archival - Message from October 2025
 -------------------
 Funkin-UTAU started as a personal project just for fun, and it was only released publicly after a friend suggested it.
+
 It also happened to be my first time learning to use GitHub, so it was a small project for me to learn the basics—not just of GitHub, but of UTAU as well, as I was never an expert in the topic.
+
 The configurations were messy, the guides were poorly written, and the final usage was below mediocre, but at least it was fun working on it to be each day better.
 
+
 I attempted my best to listen to feedback on the voicebanks and my "FNF UTAU Covers" on YouTube. I was explosive with my responses at times, but I genuinely wanted to improve.
+
 Lately, I've received some very negative messages about that old work, and I agree with the main focus; The voicebanks and covers were really bad! My style for tuning and creating covers has changed since then, but I know I still have a lot to learn.
 
+
 Currently, I'm 19 yeras old now and in my first year of university, can you believe it? I started this project when I was just 14 or 15 years old— time really does fly.
+
 I don't have any plans to make more content for this game, but I will always be grateful to everyone who supported me back then and motivated me to keep creating FNF content.
+
 
 I hope the community continues to experiment with new and better ideas, and most importantly having fun doing it. After all, these are free mods made with love and passion for the game.
