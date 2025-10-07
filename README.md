@@ -1,12 +1,17 @@
 # funkin-utau
 *"Ready? Set? Sing!"
-The Reborn of funkin-utau
+funkin-utau
 -------------------
-A repository with the famous game Friday Night Funkin's characters voices, for UTAU!
+A repository with the Friday Night Funkin's characters voices, for UTAU
+*Archived as there's no plans of doing additions or fixes to these old voicebanks.
+If you're looking for a proper BoyFriend UTAU voicebank, I recommend checking here: https://gamebanana.com/tools/7887
+The rest of this readme is unedited from 2021-2022.*
 
-You MUST credit GenoX and KawaiSprite when using!!, Also if you're using a FANMADE UTAU, credit the original autors of them!
+Most of the voicebanks .wav samples were sliced by me.
 
-Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
+Credit the original authors of the voices for any usage.
+-------------------
+KawaiSprite: Base Game voices
 
 Whitty, Momi and Ruv UTAU by: AjtheFunky https://www.youtube.com/c/AjtheFunky/
 
@@ -14,21 +19,13 @@ Mom and Tankmen UTAUs by: Ani Andrade/Aniball
 
 Angry Senpai, BF Pixel, BF Whitty, Pumpkin Pie and Sunday UTAUs by: Bmv227
 
-Tricky, Beach Brother, Zardy and Sarvente UTAUs by: Samuran
+Tricky, Zardy and Sarvente UTAUs by: Samuran
 
 Sky and Angry Sky by: Tsuwuki
-
-Garcello and Eteled by: AlexGamingSW https://www.youtube.com/channel/UC4tFoQEqjfPSbucWGsc3OLA
 
 KOU and Updike by: moonbubble
 
 BF from Hex mod by: xzh3r
-
-FNF but bad UTAUs just came out!! Credits to CLF <3
-
-Go check out Blantados UTAUs!! (Be sure to credit them when using): https://github.com/Blantados/blantados-funkin-utau-main
-
-You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Issues tab or talk to me in Discord: GenoX#2279
 
 Original Creators of the FANMADE UTAUs
 -------------------
@@ -40,15 +37,11 @@ Original Creators of the FANMADE UTAUs
 
 -Whitty-Sock.clip-
 
--ExGF-xylobeta-
+-ExGF-RatNonFat & xylobeta-
 
 -Hex-YingYang48-
 
--Annie-atsuover-
-
 -Pumpkin Pie-BetaHasAPumpkin-
-
--Beach Brother-Piesariusz27-
 
 -Sarvente-Mike Geno-
 
@@ -57,12 +50,6 @@ Original Creators of the FANMADE UTAUs
 -Tricky-Rozebud-
 
 -Zardy-Rozebud-
-
--KAPI-PaperKitty-
-
--Garcello-atsuover-
-
--Agoti-A.G.O.T.I-
 
 -Tabi-Tenzubushi-
 
@@ -74,7 +61,7 @@ Original Creators of the FANMADE UTAUs
 
 -Tord-bbpanzu-
 
--Monika-CelShader-
+-Monika-Team TBD-
 
 -Kou-Aika-
 
@@ -86,16 +73,13 @@ Original Creators of the FANMADE UTAUs
 
 -FNF but bad-CLF-
 
--Eteled-TheMaskedChris-
-
-send a lot of love to these creators!
-
 IMPORTANT NOTES:
 ---------------------
 
+*These notes were written for vanilla UTAU usage. OpenUTAU and other programs usage might be different. 
 Some VoiceBanks like Pico and Monster needs to be lowed 2 octaves so they can sound normal, for do that follow this guide:
 
->1 Go to the "Edit" menu (In UTAU, ofc)
+>1 In UTAU, Go to the "Edit" menu
 
 >2 Select "Move Region by Number"
 
@@ -111,7 +95,7 @@ With the same guide of before you can also do with male voices like Whitty
 >Whitty uses 1 octave lower, so move -12
 
 Skid and Pump have the same voice provideer but different between South and Spookeez
->so i put Spookez as Skid and South as Pump
+>so I put Spookez as Skid and South as Pump
 
 ...
 
@@ -119,4 +103,18 @@ Skid and Pump have the same voice provideer but different between South and Spoo
 
 .
 
-Oh you read all of this?? Nice! Go ahead and download from the Source Code
+
+
+# Archival - Message from October 2025
+-------------------
+Funkin-UTAU started as a personal project just for fun, and it was only released publicly after a friend suggested it.
+It also happened to be my first time learning to use GitHub, so it was a small project for me to learn the basics—not just of GitHub, but of UTAU as well, as I was never an expert in the topic.
+The configurations were messy, the guides were poorly written, and the final usage was below mediocre, but at least it was fun working on it to be each day better.
+
+I attempted my best to listen to feedback on the voicebanks and my "FNF UTAU Covers" on YouTube. I was explosive with my responses at times, but I genuinely wanted to improve.
+Lately, I've received some very negative messages about that old work, and I agree with the main focus; The voicebanks and covers were really bad! My style for tuning and creating covers has changed since then, but I know I still have a lot to learn.
+
+Currently, I'm 19 yeras old now and in my first year of university, can you believe it? I started this project when I was just 14 or 15 years old— time really does fly.
+I don't have any plans to make more content for this game, but I will always be grateful to everyone who supported me back then and motivated me to keep creating FNF content.
+
+I hope the community continues to experiment with new and better ideas, and most importantly having fun doing it. After all, these are free mods made with love and passion for the game.
