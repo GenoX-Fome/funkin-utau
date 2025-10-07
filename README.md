@@ -15,7 +15,7 @@ Credit the original authors of the voices for any usage.
 
 KawaiSprite: Base Game voices
 
-Whitty, Momi and Ruv UTAU by: AjtheFunky https://www.youtube.com/c/AjtheFunky/
+Whitty, Momi and Ruv UTAU by: AjtheFunky
 
 Mom and Tankmen UTAUs by: Ani Andrade/Aniball
 
@@ -114,15 +114,15 @@ Funkin-UTAU started as a personal project just for fun, and it was only released
 
 It also happened to be my first time learning to use GitHub, so it was a small project for me to learn the basics—not just of GitHub, but of UTAU as well, as I was never an expert in the topic.
 
-The configurations were messy, the guides were poorly written, and the final usage was below mediocre, but at least it was fun working on it to be each day better.
+The configurations were messy or non-existent, the guides were poorly written, and the final usage was below mediocre, but at least it was fun working on it to be each day better.
 
 
 I attempted my best to listen to feedback on the voicebanks and my "FNF UTAU Covers" on YouTube. I was explosive with my responses at times, but I genuinely wanted to improve.
 
-Lately, I've received some very negative messages about that old work, and I agree with the main focus; The voicebanks and covers were really bad! My style for tuning and creating covers has changed since then, but I know I still have a lot to learn.
+Lately, I've received some very negative messages about that old work, and I agree with the main focus; The voicebanks and covers were extremely bad! My style for tuning and creating covers has changed since then, but I know I still have a lot to learn.
 
 
-Currently, I'm 19 yeras old now and in my first year of university, can you believe it? I started this project when I was just 14 or 15 years old— time really does fly.
+Currently, I'm 19 years old now and in my first year of university, can you believe it? I started this project when I was just 14 or 15 years old— time really does fly.
 
 I don't have any plans to make more content for this game, but I will always be grateful to everyone who supported me back then and motivated me to keep creating FNF content.
 
